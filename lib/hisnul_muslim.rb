@@ -1,4 +1,5 @@
-   require 'httparty'
+require 'hisnul_muslim/version'
+require 'httparty'
 
    class HisnulMuslim
      include HTTParty
